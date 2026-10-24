@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "B4 BINGO (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "B4 BINGO (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
